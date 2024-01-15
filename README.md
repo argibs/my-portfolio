@@ -4,7 +4,7 @@ Welcome to my GIS portfolio. Below you can browse examples of my work compiled o
 This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/). 
 
 ## About me 
-<img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
+<img align="left" width="25%" height="25%" src="assets/images/about-me.jpeg">
 My name is Ashton Gibson and I’m a undergraduate student at the University of Michigan studying PiTE. <br />
 <br />
 I first became interested in the social applications of <br />
@@ -13,7 +13,8 @@ This realization is what ultimately led me to Carnegie Mellon, and to Heinz Coll
 <br />
 My most recent projects have focused on public interest technologies that help to increase the range and accessibility of social services worldwide, especially as a means of increasing society's resilience to global threats like climate change.<br />
 <br />
-View my resume [here](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Patrick%20Campbell%20Resume.pdf).
+View my resume 
+<a href="./assets/resume/Gibson,Ashton_UMich_Resume.pdf">here</a>.
 
 #### Jump to Section
 - [Google Map Styles](#google-maps-styles) 
