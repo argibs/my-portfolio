@@ -22,7 +22,7 @@ Through my coursework, I have become familiar with GIS skills such as:
 <br />
 
     **View my resume**
-<a href="./assets/resume/Gibson,Ashton_UMich_Resume.pdf">here</a>.
+<a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.
 
 #### Jump to Section
 - [GIS Coursework Samples](#coursework-layouts)
