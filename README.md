@@ -1,5 +1,5 @@
 # GIS Portfolio
-Welcome to my GIS portfolio. Below you can browse examples of my work compiled over the past two years. 
+Welcome to my GIS portfolio. Below you can browse examples of my work. 
 
 This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/). 
 
@@ -9,7 +9,7 @@ My name is Ashton Gibson and I’m a undergraduate student at the University of 
 <br />
 I first became interested in the social applications of <br />
 <br />
-This realization is what ultimately led me to Carnegie Mellon, and to Heinz College in particular. As the country’s top-rated program in analytics education with a mission of training students to “turn raw data into solutions for society’s most pressing problems,” the MSPPM program at Carnegie Mellon offered the perfect opportunity to develop the technical competencies I was seeking as well as an ideal environment to practice those skills in a real-world setting—namely, the City of Pittsburgh and its diverse network of organizational partners.<br />
+This realization is what ultimately led me to Carnegie Mellon, and to Heinz College in particular. As the .<br />
 <br />
 My most recent projects have focused on public interest technologies that help to increase the range and accessibility of social services worldwide, especially as a means of increasing society's resilience to global threats like climate change.<br />
 <br />
