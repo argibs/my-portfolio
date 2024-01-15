@@ -49,9 +49,7 @@ In this assignment I employed ArcGIS Model Builder and Python script to analyze 
 <br />
 <br /><br />
 <br />
-<br /><br />
-<br />
-<br />
+
 
 <img align="right" width="65%" height="50%" src="assets/images/watershed.jpg">
 <br />
@@ -116,6 +114,8 @@ This project shows the local 3D scene of a shaded relief of terrain. I calculate
 <br />
 <br />
 <br />
+<br />
+<br />
 
 My **final project** for this course was a case study of Harmful Algal Bloom formation in a local lake, in which I conducted a watershed analysis via ArcGIS. My research poster can be viewed <a href="./assets/final_proj/final.pdf">here</a>.
 <br />
@@ -135,10 +135,8 @@ The bottom layout is a map of the venues of my current campus job at the UMS Tic
 <br />
 <br />
 <img align="left" width="50%" height="50%" src="assets/images/lake_michigan.png">
-<img align="right" width="50%" height="50%" src="assets/images/mumbai.jpg">
+<img align="right" width="45%" height="50%" src="assets/images/mumbai.jpg">
 <img align="right" width="100%" height="50%" src="assets/images/lake_superior.jpg">
-<br />
-<br />
 <img align="right" width="100%" height="50%" src="assets/images/ums.png">
 <br />
 <br />
