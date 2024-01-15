@@ -57,7 +57,7 @@ In this assignment I employed ArcGIS Model Builder and Python script to analyze 
 <br />
 <br />
 <br />
-<br />
+
 
 #### #2- Watershed Analysis: 
 <br />
@@ -87,8 +87,7 @@ Here I used a digital elevation model to calculate the watershed boundary, flow 
 <br /><br />
 <br />
 <br /><br />
-<br />
-<br />
+
 
 #### #3- Cost Path Analysis: 
 <br />
@@ -115,23 +114,15 @@ This project shows the local 3D scene of a shaded relief of terrain. I calculate
 <br />
 <br />
 <br />
-<br /><br />
 <br />
 <br />
-<br />
-<br />
-<br />
-
 
 My **final project** for this course was a case study of Harmful Algal Bloom formation in a local lake, in which I conducted a watershed analysis via ArcGIS. My research poster can be viewed <a href="./assets/final_proj/final.pdf">here</a>.
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 ### QGIS Layouts
 These layouts are projects I've done for fun, to practice using QGIS and my cartographic design skills.
@@ -145,8 +136,6 @@ The bottom layout is a map of the venues of my current campus job at the UMS Tic
 <br />
 <img align="left" width="50%" height="50%" src="assets/images/lake_michigan.png">
 <img align="right" width="50%" height="50%" src="assets/images/mumbai.jpg">
-<br />
-<br />
 <img align="right" width="100%" height="50%" src="assets/images/lake_superior.jpg">
 <br />
 <br />
