@@ -61,7 +61,18 @@ In this assignment I employed ArcGIS Model Builder and Python script to analyze 
 Here I used a digital elevation model to calculate the watershed boundary, flow direction, and  stream order of the study area, using ArcGIS Hydrologic Modeling tools.
 <br />
 <br />
-<img align="right" width="45%" height="50%" src="assets/images/watershed.jpg">
+<img align="right" width="65%" height="50%" src="assets/images/watershed.jpg">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -89,7 +100,7 @@ This project shows the local 3D scene of a shaded relief of terrain. I calculate
 <br />
 <br />
 <br />
-<img align="right" width="65%" height="50%" src="assets/images/cost_path.jpg">
+<img align="left" width="65%" height="50%" src="assets/images/cost_path.jpg">
 <br />
 <br />
 <br />
@@ -104,12 +115,35 @@ This project shows the local 3D scene of a shaded relief of terrain. I calculate
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><br />
 <br />
 <br />
 <br />
 <br />
 
+
 My **final project** for this course was a case study of Harmful Algal Bloom formation in a local lake, in which I conducted a watershed analysis via ArcGIS. My research poster can be viewed <a href="./assets/final_proj/final.pdf">here</a>.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -147,6 +181,15 @@ This is another stylized example, this displayes the elevation of Mumbai.
 <br />
 <br />
 <br />
+<br /> 
 <br />
-<img align="left" width="70%" height="50%" src="assets/images/ums.png">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 I love my current work-study job at UMS, so to practice, I digitized all of our venues and offices and made a simple map of the area!
+I love my current work-study job at UMS, so to practice, I digitized all of our venues and offices and made a simple map of the area!
+<img align="center" width="70%" height="50%" src="assets/images/ums.png">
+
