@@ -31,7 +31,7 @@ Through my coursework, I have become familiar with GIS skills such as:
 
 
 ### Coursework Layouts
-These layouts are projects I completed in _Earth 309: GIS Explorations_. 
+The following layouts are projects I completed in _Earth 309: GIS Explorations_. 
 <br />
 <br />
 <img align="right" width="70%" height="50%" src="assets/images/FermiLayout.jpg">
@@ -39,7 +39,14 @@ These layouts are projects I completed in _Earth 309: GIS Explorations_.
 <br />
 This assignment used stacked data queries to identify regions of interest, as well as spatial overlay tools to combine the various data sources. I also utilized Esri data enrichment to calculate spatial statistics for the region 
 <br /> <br />
+<br /><br /><br />
 <br />
+<br /><br />
+<br />
+#### #2- Earthquake Risk Assessment: 
+<img align="right" width="70%" height="50%" src="assets/images/FermiLayout.jpg">
+
+
 The layouts below are examples from my work in _Earth 408: Intro to GIS for Earth Science_. These projects were assigned and sourced from the textbook _Discovering GIS and ArcGIS Pro_ (Third Edition) by Bradley Shellito. 
 <br />
 <br />
