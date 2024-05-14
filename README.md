@@ -34,6 +34,12 @@ Through my coursework, I have become familiar with GIS skills such as:
 These layouts are projects I completed in _Earth 309: GIS Explorations_. 
 <br />
 <br />
+<img align="right" width="70%" height="50%" src="assets/images/FermiLayout.jpg">
+#### #1- Suitability Analysis (Vector): 
+<br />
+This assignment used stacked data queries to identify regions of interest, as well as spatial overlay tools to combine the various data sources. I also utilized Esri data enrichment to calculate spatial statistics for the region 
+<br /> <br />
+<br />
 The layouts below are examples from my work in _Earth 408: Intro to GIS for Earth Science_. These projects were assigned and sourced from the textbook _Discovering GIS and ArcGIS Pro_ (Third Edition) by Bradley Shellito. 
 <br />
 <br />
@@ -41,7 +47,7 @@ The layouts below are examples from my work in _Earth 408: Intro to GIS for Eart
 
 <img align="left" width="70%" height="50%" src="assets/images/suitability_analysis.jpg">
 
-#### #1- Suitability Analysis: 
+#### #1- Suitability Analysis (Raster): 
 <br />
 In this assignment I employed ArcGIS Model Builder and Python script to analyze and edit multiple raster datasets at once using various raster calculations, ultimately outputting a dataset that displayed areas with the correct limiting criteria. 
 <br /> 
