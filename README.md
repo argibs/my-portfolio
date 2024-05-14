@@ -31,6 +31,9 @@ Through my coursework, I have become familiar with GIS skills such as:
 
 
 ### Coursework Layouts
+These layouts are projects I completed in _Earth 309: GIS Explorations_. 
+<br />
+<br />
 The layouts below are examples from my work in _Earth 408: Intro to GIS for Earth Science_. These projects were assigned and sourced from the textbook _Discovering GIS and ArcGIS Pro_ (Third Edition) by Bradley Shellito. 
 <br />
 <br />
@@ -125,7 +128,7 @@ My **final project** for this course was a case study of Harmful Algal Bloom for
 
 
 ### QGIS Layouts
-These layouts are projects I've done for fun, to practice using QGIS and my cartographic design skills.
+These layouts are projects I've done for fun, to practice using QGIS and explore cartographic design skills.
 <br /><br />
 The bathymetry layouts are an ongoing project of mine, I want to do layouts for all of the Great Lakes. I started with these, to test out and compare two similar color ramps and display styles. 
 <br /><br />
