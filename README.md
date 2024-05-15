@@ -43,8 +43,11 @@ This assignment used stacked data queries to identify regions of interest, as we
 <br />
 <br /><br />
 <br />
+
 #### #2- Earthquake Risk Assessment: 
-<img align="right" width="70%" height="50%" src="assets/images/Liquefaction-Risk-Layout.jpg">
+
+<img align="left" width="50%" height="50%" src="assets/images/Liquefaction-Risk-Layout.jpg">
+<img align="right" width="50%" height="50%" src="assets/images/Overlay-Layout.jpg">
 
 
 The layouts below are examples from my work in _Earth 408: Intro to GIS for Earth Science_. These projects were assigned and sourced from the textbook _Discovering GIS and ArcGIS Pro_ (Third Edition) by Bradley Shellito. 
