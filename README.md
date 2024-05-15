@@ -34,7 +34,7 @@ Through my coursework, I have become familiar with GIS skills such as:
 The following layouts are projects I completed in _Earth 309: GIS Explorations_. 
 <br />
 <br />
-<img align="right" width="70%" height="50%" src="assets/images/FermiLayout.jpg">
+<img align="right" width="85%" height="50%" src="assets/images/FermiLayout.jpg">
 ### #1- Suitability Analysis (Vector): 
 <br />
 This assignment used stacked data queries to identify regions of interest, as well as spatial overlay tools to combine the various data sources. I also utilized Esri data enrichment to calculate spatial statistics for the region.
@@ -49,12 +49,12 @@ This assignment used stacked data queries to identify regions of interest, as we
 
 ### #2- Earthquake Risk Assessment: 
 
-<img align="left" width="45%" height="50%" src="assets/images/Liquefaction-Risk-Layout.jpg">
+<img align="left" width="65%" height="50%" src="assets/images/Liquefaction-Risk-Layout.jpg">
 
 
 These two layouts are from my semester project, where I aimed to assess earthquake risk along the San Andreas fault by combining geologic and demographic factors. I used raster calculations and spatial overlay tools to combine the data and visually assess the regions with the highest risk.
 <br />
-<img align="center" width="100%" height="50%" src="assets/images/Overlay-Layout.jpg">
+<img align="center" width="90%" height="50%" src="assets/images/Overlay-Layout.jpg">
 <br /><br />
 <br /><br />
 <br />
@@ -80,7 +80,7 @@ In this assignment I employed ArcGIS Model Builder and Python script to analyze 
 <br />
 
 
-<img align="right" width="55%" height="50%" src="assets/images/watershed.jpg">
+<img align="right" width="45%" height="50%" src="assets/images/watershed.jpg">
 <br />
 <br />
 <br />
