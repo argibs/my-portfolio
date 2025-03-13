@@ -180,7 +180,7 @@ The bottom layout is a map of the venues of my current campus job at the UMS Tic
 <img align="left" width="50%" height="50%" src="assets/images/lake_michigan.png">
 <img align="right" width="45%" height="50%" src="assets/images/mumbai.jpg">
 <img align="right" width="100%" height="50%" src="assets/images/lake_superior.jpg">
-<img align="right" width="100%" height="50%" src="assets/images/douglaslake_newcolor.jpg">
+<img align="right" width="100%" height="50%" src="assets/images/douglaslake_newcolor.JPEG">
 <img align="right" width="100%" height="50%" src="assets/images/ums.png">
 <br />
 <br />
