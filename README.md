@@ -10,13 +10,12 @@ My name is Ashton Gibson and I’m an undergraduate student in the Program in th
 I am particularly interested in the field of GIS for the applications in environmental conservation, as well as the opportunites for facilitating scientific communication through mapping.
 <br />
 <br />
-Through my coursework, I have become familiar with GIS skills such as:
+Through my coursework and internship experience, I have become familiar with GIS skills such as:
 
 - Creating and editing geospatial data
 - Building workflow models to aid in analyses
 - Performing spatial, interpolation, and geoprocessing analyses
 - Using Hydrologic modeling toolsets in ArcGIS to conduct watershed analyses
-- Using/building 3D models and 3D Local Scenes in ArcGIS
 - Creating interactive maps or uploading existing maps via ArcGIS Online
 <br />
 <br />
@@ -31,6 +30,12 @@ Through my coursework, I have become familiar with GIS skills such as:
 
 
 ## Coursework Layouts
+The first layout is an sample of coursework I completed in _Environ 531: GIS Principles_. 
+<br />
+<br />
+This course emphasized real-world applications of GIS, and the goal of this assignment was to display multiple types of spatial information in a way which is still digestible to a general audience. 
+
+
 The following layouts are projects I completed in _Earth 309: GIS Explorations_. 
 <br />
 <br />
