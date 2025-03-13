@@ -170,7 +170,7 @@ My **final project** for this course was a case study of Harmful Algal Bloom for
 ### QGIS Layouts
 These layouts are projects I've done for fun, to practice using QGIS and explore cartographic design skills.
 <br /><br />
-The bathymetry layouts are an ongoing project of mine, I want to do layouts for all of the Great Lakes. I started with these, to test out and compare two similar color ramps and display styles. 
+The bathymetry layouts are an ongoing project of mine, I really find bathymetry data to be so visually interesting to display in a GIS! I've used these to test out variations in color palette and style. 
 <br /><br />
 In the Mumbai layout, I aimed to stylistically display the area's elevation.
 <br /><br />
@@ -180,6 +180,7 @@ The bottom layout is a map of the venues of my current campus job at the UMS Tic
 <img align="left" width="50%" height="50%" src="assets/images/lake_michigan.png">
 <img align="right" width="45%" height="50%" src="assets/images/mumbai.jpg">
 <img align="right" width="100%" height="50%" src="assets/images/lake_superior.jpg">
+<img align="right" width="100%" height="50%" src="assets/images/douglaslake_newcolor.jpg">
 <img align="right" width="100%" height="50%" src="assets/images/ums.png">
 <br />
 <br />
