@@ -33,14 +33,23 @@ Through my coursework and internship experience, I have become familiar with GIS
 The first layout is an sample of coursework I completed in _Environ 531: GIS Principles_. 
 <br />
 <br />
+<img align="left" width="85%" height="50%" src="assets/images/TRI-layout.jpg">
+### #1- Vector Spatial Overlay Analysis: 
 This course emphasized real-world applications of GIS, and the goal of this assignment was to display multiple types of spatial information in a way which is still digestible to a general audience. 
-
+<br /> <br />
+<br /><br /><br />
+<br />
+<br /><br />
+<br />
+<br />
+<br /><br />
+<br />
 
 The following layouts are projects I completed in _Earth 309: GIS Explorations_. 
 <br />
 <br />
 <img align="right" width="85%" height="50%" src="assets/images/FermiLayout.jpg">
-### #1- Suitability Analysis (Vector): 
+### #2- Suitability Analysis (Vector): 
 <br />
 This assignment used stacked data queries to identify regions of interest, as well as spatial overlay tools to combine the various data sources. I also utilized Esri data enrichment to calculate spatial statistics for the region.
 <br /> <br />
@@ -52,7 +61,7 @@ This assignment used stacked data queries to identify regions of interest, as we
 <br /><br />
 <br />
 
-### #2- Earthquake Risk Assessment: 
+### #3- Earthquake Risk Assessment: 
 
 <img align="left" width="65%" height="50%" src="assets/images/Liquefaction-Risk-Layout.jpg">
 
@@ -72,7 +81,7 @@ The layouts below are examples from my work in _Earth 408: Intro to GIS for Eart
 
 <img align="left" width="70%" height="50%" src="assets/images/suitability_analysis.jpg">
 
-### #3- Suitability Analysis (Raster): 
+### #4- Suitability Analysis (Raster): 
 <br />
 In this assignment I employed ArcGIS Model Builder and Python script to analyze and edit multiple raster datasets at once using various raster calculations, ultimately outputting a dataset that displayed areas with the correct limiting criteria. 
 <br /> 
@@ -91,7 +100,7 @@ In this assignment I employed ArcGIS Model Builder and Python script to analyze 
 <br />
 
 
-### #4- Watershed Analysis: 
+### #5- Watershed Analysis: 
 <br />
 Here I used a digital elevation model to calculate the watershed boundary, flow direction, and  stream order of the study area, using ArcGIS Hydrologic Modeling tools.
 <br />
@@ -121,7 +130,7 @@ Here I used a digital elevation model to calculate the watershed boundary, flow 
 <br /><br />
 
 
-### #5- Cost Path Analysis: 
+### #6- Cost Path Analysis: 
 <br />
 This project shows the local 3D scene of a shaded relief of terrain. I calculated distance over a digital elevation model, and learned how the "cost" of a path is calculated and changed given different input parameters.
 <br />
