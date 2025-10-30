@@ -7,7 +7,7 @@ Welcome to my GIS portfolio! Below you can browse examples of my GIS coursework 
 My name is Ashton Gibson and I’m a Masters student in Geospatial Data Science at the University of Michigan. 
 <br />
 <br />
-I am particularly interested in the field of GIS for the applications in environmental conservation, as well as the opportunites for facilitating scientific communication through mapping.
+I am particularly interested in the field of GIS for the applications in environmental conservation, as well as the opportunites for facilitating scientific communication through mapping. 
 <br />
 <br />
 Through my coursework and internship experience, I have become familiar with GIS skills such as:
@@ -18,17 +18,15 @@ Through my coursework and internship experience, I have become familiar with GIS
 - Utilizing Web GIS Solutions such as Dashboards, StoryMaps, and Survey123
 <br />
 <br />
-## Internship Projects
-(this section is under construction)
 
-    **View my resume**
-<a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.
+**View my resume
+<a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.**
 
 #### Jump to Section
 - [GIS Coursework Samples](#coursework-layouts)
 - [Personal Projects](#qgis-layouts)
-
-
+## Internship Projects
+(this section is under construction)
 
 ## Coursework Layouts
 The first layout is an sample of coursework I completed in _Environ 531: GIS Principles_. 
