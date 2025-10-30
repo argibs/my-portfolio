@@ -4,7 +4,7 @@ Welcome to my GIS portfolio! Below you can browse examples of my GIS coursework 
 
 ## About me 
 <img align="left" width="25%" height="25%" src="assets/images/about-me.jpeg">
-My name is Ashton Gibson and I’m an undergraduate student in the Program in the Environment at the University of Michigan. 
+My name is Ashton Gibson and I’m a Masters student in Geospatial Data Science at the University of Michigan. 
 <br />
 <br />
 I am particularly interested in the field of GIS for the applications in environmental conservation, as well as the opportunites for facilitating scientific communication through mapping.
@@ -15,8 +15,7 @@ Through my coursework and internship experience, I have become familiar with GIS
 - Creating and editing geospatial data
 - Building workflow models to aid in analyses
 - Performing spatial, interpolation, and geoprocessing analyses
-- Using Hydrologic modeling toolsets in ArcGIS to conduct watershed analyses
-- Creating interactive maps or uploading existing maps via ArcGIS Online
+- Utilizing Web GIS Solutions such as Dashboards, StoryMaps, and Survey123
 <br />
 <br />
 
@@ -174,7 +173,7 @@ The bathymetry layouts are an ongoing project of mine, I really find bathymetry 
 <br /><br />
 In the Mumbai layout, I aimed to stylistically display the area's elevation.
 <br /><br />
-The bottom layout is a map of the venues of my current campus job at the UMS Ticket Office, which I love!
+The bottom layout is a map of the venues of undergraduate job at the UMS Ticket Office, which I created to show that GIS is not just for scientific fields- spatial data is all around us :)
 <br />
 <br />
 <img align="left" width="50%" height="50%" src="assets/images/lake_michigan.png">
