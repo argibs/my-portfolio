@@ -18,6 +18,8 @@ Through my coursework and internship experience, I have become familiar with GIS
 - Utilizing Web GIS Solutions such as Dashboards, StoryMaps, and Survey123
 <br />
 <br />
+## Internship Projects
+(this section is under construction)
 
     **View my resume**
 <a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.
